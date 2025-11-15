@@ -1,19 +1,24 @@
 ## Hi there 👋
 
-I'm Harikrishnan, a Certified SOC Analyst,Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
+I'm **Hari Krishnan**, a SOC Analyst, Security Researcher, and Cybersecurity Professional.  
+With hands-on experience in **SIEM monitoring**, **incident analysis**, **penetration testing**, and **network security**,  
+I aim to detect threats, analyze attacks, and defend digital infrastructure from real-world cyber risks.
 
-<a href="https://linkedin.com/scratch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harikrishnan-m-75406a1b1">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: Harikrishnan M
-- **From**: India
-- **Bug Hunter** | **Security Researcher** | **Freelance Penetration Tester**
-- I have experience in bug hunting, vulnerability assessment, penetration testing, and social engineering.
-- Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
-- I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
+- **Name**: Harikrishnan M  
+- **From**: India  
+- **SOC Analyst** | **Security Researcher** | **Tech support engineer freelance**
 
+- Experienced in **threat detection**, **log analysis**, **SIEM monitoring**, **penetration testing**, and **network troubleshooting**.
+- Strong background in **FTTH OLT configuration**, **modems**, **routers**, and **ISP network security**.
+- Skilled in **incident response**, **threat hunting**, **packet analysis**, and **vulnerability exploitation**.
+- Continuously improving my knowledge in **DFIR**, **MITRE ATT&CK**, **network forensics**, and **advanced cybersecurity techniques**.
 </details>
 <br>
 
@@ -55,9 +60,9 @@ I'm Harikrishnan, a Certified SOC Analyst,Security Researcher. With expertise in
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
+<img src="https://img.shields.io/badge/Certified_SOC_Analyst-(EC--Council)-red?style=for-the-badge&color=000000" alt="CSA Certification" />
+
+<img src="https://img.shields.io/badge/IT_Infrastructure_Cyber_SOC_Analyst-RedTeam_Hacker_Academy-red?style=for-the-badge&color=000000" alt="RedTeam Certification" />
 
 </div>
 
