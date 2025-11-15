@@ -11,7 +11,7 @@ With hands-on experience in SOC monitoring, vulnerability assessment, and penetr
 
 - **Name**: Hari Krishnan (HARIKRISHNAN)  
 - **From**: Malappuram, Kerala, India  
-- **Roles**: SOC Analyst | Tech Support Engineer | Security Researcher | Freelance Penetration Tester  
+- **Roles**: SOC Analyst | Tech Support Engineer | Security Researcher
 - I have experience in **bug hunting, vulnerability assessment, penetration testing, and social engineering**.  
 - Continuously improving my knowledge of **DFIR, Threat Hunting, SIEM detections, and MITRE ATT&CK**.  
 - Education: **Diploma in Engineering (Electronics)** — Polytechnic College, Perinthalmanna (2019–2022)
