@@ -31,7 +31,7 @@ I aim to detect threats, analyze attacks, and defend digital infrastructure from
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=000000" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=000000" alt="Splunk" />
       <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&color=000000" alt="Microsoft Sentinel" />
       <img src="https://img.shields.io/badge/Wazuh-0267C1?style=for-the-badge&logo=wazuh&color=000000" alt="Wazuh" />
       <img src="https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=microsoft&color=000000" alt="Microsoft Defender" />
