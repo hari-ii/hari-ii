@@ -29,26 +29,46 @@ I aim to detect threats, analyze attacks, and defend digital infrastructure from
 <br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=000000" alt="Splunk" />
-      <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&color=000000" alt="Microsoft Sentinel" />
-      <img src="https://img.shields.io/badge/Wazuh-0267C1?style=for-the-badge&logo=wazuh&color=000000" alt="Wazuh" />
-      <img src="https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=microsoft&color=000000" alt="Microsoft Defender" />
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&color=000000" alt="Elastic SIEM" />
-      <img src="https://img.shields.io/badge/Threat_Hunting-FF0000?style=for-the-badge&color=000000" alt="Threat Hunting" />
-      <img src="https://img.shields.io/badge/Incident_Response-8B0000?style=for-the-badge&color=000000" alt="Incident Response" />
-      <img src="https://img.shields.io/badge/Log_Analysis-2E8B57?style=for-the-badge&color=000000" alt="Log Analysis" />
-      <img src="https://img.shields.io/badge/Network_Security-1E90FF?style=for-the-badge&color=000000" alt="Network Security" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&color=000000" alt="Jira" />
-
-  </div>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"><!-- SOC / Defensive Tools --><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=000000" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&color=000000" />
+<img src="https://img.shields.io/badge/Wazuh-0267C1?style=for-the-badge&logo=wazuh&color=000000" />
+<img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&color=000000" />
+<img src="https://img.shields.io/badge/Security_Onion-5C2D91?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/OSSIM-5C2D91?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=microsoft&color=000000" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&color=000000" />
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/TheHive-FFB000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Cortex-6A5ACD?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/MISP-FF6600?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/YARA-000000?style=for-the-badge&color=000000" /><!-- Offensive / Pentesting Tools --><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&color=000000" />
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Dirb-000000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Hashcat-FF0000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Aircrack_ng-000000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Amass-000000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/theHarvester-000000?style=for-the-badge&color=000000" /><!-- Skills --><img src="https://img.shields.io/badge/Threat_Hunting-FF0000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Incident_Response-8B0000?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Log_Analysis-2E8B57?style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/badge/Network_Security-1E90FF?style=for-the-badge&color=000000" /><!-- OS / Languages --><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&color=000000" /></div>
 </div>
 ---
 <h2 id="Certifications" align=''> Certifications </h2>
