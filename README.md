@@ -12,12 +12,12 @@ I aim to detect threats, analyze attacks, and defend digital infrastructure from
   <summary>More about me</summary>
 
 - **Name**: Harikrishnan M  
-- **From**: India  
-- **SOC Analyst** | **Security Researcher** | **Tech support engineer freelance**
+- **From**: Kerala,India  
+- **SOC Analyst** | **Security Researcher** | **Tech support engineer**
 
 - Experienced in **threat detection**, **log analysis**, **SIEM monitoring**, **penetration testing**, and **network troubleshooting**.
-- Strong background in **FTTH OLT configuration**, **modems**, **routers**, and **ISP network security**.
-- Skilled in **incident response**, **threat hunting**, **packet analysis**, and **vulnerability exploitation**.
+- Strong background in **routers**,**modems**,**Firewalls** and **ISP network security**.
+- Skilled in **SIEM configuration**, and **security event analysis**. Strong foundation in **cybersecurity concepts**, **threat detection**, and **incident response**
 - Continuously improving my knowledge in **DFIR**, **MITRE ATT&CK**, **network forensics**, and **advanced cybersecurity techniques**.
 </details>
 <br>
