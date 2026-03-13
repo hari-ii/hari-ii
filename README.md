@@ -27,46 +27,70 @@ I aim to detect threats, analyze attacks, and defend digital infrastructure from
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
-<div style="border:2px solid #22F700; border-radius:10px; padding:20px; margin-bottom:20px;">
-<div align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;"><!-- SOC / Blue Team Tools --><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
-<img src="https://img.shields.io/badge/Wazuh-0267C1?style=for-the-badge&logo=wazuh&logoColor=white">
-<img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white">
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white">
-<img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge&logo=zeek&logoColor=white">
-<img src="https://img.shields.io/badge/Security_Onion-6A5ACD?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white">
-<img src="https://img.shields.io/badge/MISP-FF6600?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
-<img src="https://img.shields.io/badge/YARA-000000?style=for-the-badge&logo=virusTotal&logoColor=white">
-<img src="https://img.shields.io/badge/TheHive-FFB000?style=for-the-badge&logo=hive&logoColor=white">
-<img src="https://img.shields.io/badge/Cortex-6A5ACD?style=for-the-badge&logo=databricks&logoColor=white"><!-- Offensive / Red Team Tools --><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnometerminal&logoColor=white">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white">
-<img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logo=gnu&logoColor=white">
-<img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Hashcat-FF0000?style=for-the-badge&logo=amd&logoColor=white">
-<img src="https://img.shields.io/badge/Aircrack_ng-000000?style=for-the-badge&logo=wifi&logoColor=white">
-<img src="https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=graphql&logoColor=white">
-<img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=datadog&logoColor=white">
-<img src="https://img.shields.io/badge/Amass-000000?style=for-the-badge&logo=cloudflare&logoColor=white">
-<img src="https://img.shields.io/badge/theHarvester-000000?style=for-the-badge&logo=hackaday&logoColor=white"><!-- Skills --><img src="https://img.shields.io/badge/Threat_Hunting-FF0000?style=for-the-badge&logo=target&logoColor=white">
-<img src="https://img.shields.io/badge/Incident_Response-8B0000?style=for-the-badge&logo=probot&logoColor=white">
-<img src="https://img.shields.io/badge/Log_Analysis-2E8B57?style=for-the-badge&logo=logstash&logoColor=white">
-<img src="https://img.shields.io/badge/Network_Security-1E90FF?style=for-the-badge&logo=cisco&logoColor=white"><!-- Languages / Tools --><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></div>
+<div align="left">
+
+<!-- SOC / Blue Team -->
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=auto">
+<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=auto">
+<img src="https://img.shields.io/badge/Elastic_SIEM-000000?style=for-the-badge&logo=elastic&logoColor=auto">
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-000000?style=for-the-badge&logo=microsoftazure&logoColor=auto">
+<img src="https://img.shields.io/badge/Microsoft_Defender-000000?style=for-the-badge&logo=microsoft&logoColor=auto">
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=auto">
+<img src="https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=snort&logoColor=auto">
+<img src="https://img.shields.io/badge/Suricata-000000?style=for-the-badge&logo=suricata&logoColor=auto">
+<img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge&logo=zeek&logoColor=auto">
+<img src="https://img.shields.io/badge/Security_Onion-000000?style=for-the-badge&logo=linux&logoColor=auto">
+<img src="https://img.shields.io/badge/Graylog-000000?style=for-the-badge&logo=graylog&logoColor=auto">
+<img src="https://img.shields.io/badge/MISP-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=auto">
+<img src="https://img.shields.io/badge/YARA-000000?style=for-the-badge&logo=virustotal&logoColor=auto">
+<img src="https://img.shields.io/badge/TheHive-000000?style=for-the-badge&logo=hive&logoColor=auto">
+<img src="https://img.shields.io/badge/Cortex-000000?style=for-the-badge&logo=databricks&logoColor=auto">
+
+<br>
+
+<!-- Offensive -->
+
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=auto">
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=auto">
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=auto">
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=auto">
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=auto">
+<img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=mysql&logoColor=auto">
+<img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=auto">
+<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnu&logoColor=auto">
+<img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=linux&logoColor=auto">
+<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=amd&logoColor=auto">
+<img src="https://img.shields.io/badge/Aircrack_ng-000000?style=for-the-badge&logo=wifi&logoColor=auto">
+<img src="https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logo=windows&logoColor=auto">
+<img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logo=graphql&logoColor=auto">
+<img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=datadog&logoColor=auto">
+<img src="https://img.shields.io/badge/Amass-000000?style=for-the-badge&logo=cloudflare&logoColor=auto">
+<img src="https://img.shields.io/badge/theHarvester-000000?style=for-the-badge&logo=hackaday&logoColor=auto">
+
+<br>
+
+<!-- Skills -->
+
+<img src="https://img.shields.io/badge/Threat_Hunting-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Incident_Response-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Log_Analysis-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge">
+
+<br>
+
+<!-- Languages / Tools -->
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=auto">
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=auto">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=auto">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=auto">
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=auto">
+<img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=auto">
+
 </div>
+
+
 
 
 ---
