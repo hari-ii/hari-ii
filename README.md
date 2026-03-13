@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Hari Krishnan**, a Certified SOC Analyst, Bug Hunter & Security Researcher With hands-on experience in **SIEM monitoring**, **incident analysis**, **penetration testing**, and **network security**,  
+I'm **Hari Krishnan**, a Certified SOC Analyst, Tech support engineer ,Bug Hunter & Security Researcher With hands-on experience in **SIEM monitoring**, **incident analysis**, **penetration testing**, and **network security**,  
 I aim to detect threats, analyze attacks, and defend digital infrastructure from real-world cyber risks.
 
 <a href="https://www.linkedin.com/in/harikrishnan-m-75406a1b1">
