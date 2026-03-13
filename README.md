@@ -66,7 +66,7 @@ I aim to detect threats, analyze attacks, and defend digital infrastructure from
 <img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=datadog&logoColor=auto">
 <img src="https://img.shields.io/badge/Amass-000000?style=for-the-badge&logo=cloudflare&logoColor=auto">
 <img src="https://img.shields.io/badge/theHarvester-000000?style=for-the-badge&logo=hackaday&logoColor=auto">
-
+<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=auto">
 <br>
 
 <!-- Skills -->
