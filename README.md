@@ -109,7 +109,7 @@ I aim to detect threats, analyze attacks, and defend digital infrastructure from
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[Project 1]([https://github.com/](https://github.com/hari-ii/Analyzing-DNS-Log-Files-Using-Splunk-SIEM))**    | Analyzing DNS Log Files Using Splunk SIEM |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
